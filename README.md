@@ -1,2 +1,2 @@
 # Queues-TreeNodes
-notes and code on data structures queues and tree nodes
+notes and code on data structures queues and tree nodes, more linkedlists :)
